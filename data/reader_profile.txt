@@ -1,0 +1,4 @@
+# Curious Shelf's recommendation lens. Tune it from the main menu.
+interests=artificial intelligence, design, behavioral science, cities, writing
+preferred_pace=thoughtful
+max_pages=400
