@@ -53,7 +53,9 @@ BOOK_MANAGER_AGENT_DELAY=0 ./workflows/get_recommendations.sh --non-interactive
 
 ## Demo video
 
-[Watch the short narrated terminal demo](demo/curious-shelf-demo.mp4). It shows the dashboard, a pipe-based search, metadata enrichment, parallel recommendation progress, and the refined shortlist. The narration and shot list are in [`DEMO_SCRIPT.md`](DEMO_SCRIPT.md).
+**[Watch the live narrated demo on Google Drive](https://drive.google.com/file/d/1VzeKG3o_Zqaye29xWsBfbV1PZaaAyEeU/view).** It shows the Gum interface, reading dashboard, library search, parallel recommendation progress, and refined shortlist.
+
+A downloadable copy is also stored in [`demo/curious-shelf-demo.mp4`](demo/curious-shelf-demo.mp4). GitHub may not preview the repository copy inline because of its file size; use the Google Drive link above for immediate playback. The narration and shot list are in [`DEMO_SCRIPT.md`](DEMO_SCRIPT.md).
 
 ## Project map
 
